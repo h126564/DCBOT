@@ -1,0 +1,19 @@
+{
+  "name": "dcbot",
+  "version": "1.0.0",
+  "description": "dc bot for guild",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h126564/DCBOT.git"
+  },
+  "author": "wylff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h126564/DCBOT/issues"
+  },
+  "homepage": "https://github.com/h126564/DCBOT#readme"
+}
